@@ -2,6 +2,7 @@
 import { useEffect, useState } from 'react'
 import './App.css'
 import Splash from "./SplashScreen"
+import { motion } from 'framer-motion';
 
 
 function App() {
